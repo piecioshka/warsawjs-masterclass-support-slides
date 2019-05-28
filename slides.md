@@ -14,7 +14,7 @@ class: middle, center, no-logo, slide-invert-colors
 
 ![](images/icons/slack.svg)
 
-## #masterclass-1
+## #masterclass-2
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
 
@@ -71,7 +71,7 @@ class: slide-invert-colors
 * Social media break: **11:30 — 11:45**
 * Lunch: **13:00 — 13:30**
 * Activity break: **15:30 — 15:45**
-* End: **18:00**
+* End: **17:00**
 
 ]
 
