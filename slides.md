@@ -8,18 +8,6 @@ class: middle, slide-front-page
 
 ---
 
-class: middle, center, no-logo, slide-invert-colors
-
-# Slack
-
-![](images/icons/slack.svg)
-
-## #masterclass-2
-
-**Dostęp możliwy, kiedy dostaniesz zaproszenie.**
-
----
-
 class: middle, center, slide-invert-colors, slide-card-list, slide-card-list-rounded
 
 # Organizatorzy
@@ -34,7 +22,9 @@ class: middle, center, slide-invert-colors, slide-card-list
 
 # Trener
 
-.card[![](./images/avatars-trainers/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury]
+
+<!-- .card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski] -->
 
 ---
 
@@ -52,10 +42,11 @@ class: slide-invert-colors
 
 .size30[
 
-* Trener decyduje o prędkości realizacji projektu
+* Trener decyduje o prędkości realizacji projektu, ALE kiedy skończyłeś
+    wcześniej — daj znać — trener posiada dodatkowe zadania
 * Zajęcia grupowe — pomagamy sobie nawzajem
 * Odnosimy się do siebie po koleżeńsku
-* Żadne pytanie nie jest głupie!
+* Żadne pytanie nie jest głupie
 
 ]
 
@@ -79,6 +70,18 @@ Możliwe są dodatkowe przerwy, o których decyduje trener.
 
 ---
 
+class: middle, center, no-logo, slide-invert-colors
+
+# Slack
+
+![](images/icons/slack.svg)
+
+## #masterclass-3
+
+**Dostęp możliwy, kiedy dostaniesz zaproszenie.**
+
+---
+
 class: top, center, no-logo
 background-image: url('images/community.jpg')
 
@@ -88,7 +91,7 @@ background-image: url('images/community.jpg')
 
 class: middle, slide-invert-colors, no-logo, slide-card-list
 
-.card.size70[Dziękujemy<br/>za&nbsp;obecność!]
+.card.size70[Dziękujemy!]
 .card[![](images/logo/logo-black-transparent-200x200.png)]
 
 <!-- Fullscreen background: 1210 x 681 -->
