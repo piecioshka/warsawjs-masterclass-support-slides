@@ -22,8 +22,9 @@ class: middle, center, slide-invert-colors, slide-card-list
 
 # Trener
 
-.card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury]
+.card[![](./images/avatars-mentors/kamil-grabek.jpg) Kamil Grabek]
 
+<!-- .card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury] -->
 <!-- .card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski] -->
 
 ---
@@ -32,7 +33,9 @@ class: middle, center, slide-invert-colors, slide-middle-images, no-logo
 
 # Sponsorzy
 
-![](./images/sponsors/logo-instapage.svg)
+![](./images/sponsors/logo-sumologic.png)
+
+<!-- ![](./images/sponsors/logo-instapage.svg) -->
 
 ---
 
@@ -76,7 +79,7 @@ class: middle, center, no-logo, slide-invert-colors
 
 ![](images/icons/slack.svg)
 
-## #masterclass-3
+## #masterclass-4
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
 
