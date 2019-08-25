@@ -22,10 +22,10 @@ class: middle, center, slide-invert-colors, slide-card-list
 
 # Trener
 
-.card[![](./images/avatars-mentors/kamil-grabek.jpg) Kamil Grabek]
+.card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski]
 
+<!-- .card[![](./images/avatars-mentors/kamil-grabek.jpg) Kamil Grabek] -->
 <!-- .card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury] -->
-<!-- .card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski] -->
 
 ---
 
@@ -33,7 +33,7 @@ class: middle, center, slide-invert-colors, slide-middle-images, no-logo
 
 # Sponsorzy
 
-![](./images/sponsors/logo-sumologic.png)
+![](./images/sponsors/logo-sumo-logic.png)
 
 <!-- ![](./images/sponsors/logo-instapage.svg) -->
 
@@ -79,7 +79,7 @@ class: middle, center, no-logo, slide-invert-colors
 
 ![](images/icons/slack.svg)
 
-## #masterclass-4
+## #masterclass-5
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
 
@@ -94,7 +94,7 @@ background-image: url('images/community.jpg')
 
 class: middle, slide-invert-colors, no-logo, slide-card-list
 
-.card.size70[Dziękujemy!]
+.card.size70[Kodowanie!]
 .card[![](images/logo/logo-black-transparent-200x200.png)]
 
 <!-- Fullscreen background: 1210 x 681 -->
