@@ -22,8 +22,9 @@ class: middle, center, slide-invert-colors, slide-card-list
 
 # Trener
 
-.card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/avatars-mentors/michal-szklarski.jpg) Michał Szklarski]
 
+<!-- .card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski] -->
 <!-- .card[![](./images/avatars-mentors/kamil-grabek.jpg) Kamil Grabek] -->
 <!-- .card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury] -->
 
@@ -79,7 +80,7 @@ class: middle, center, no-logo, slide-invert-colors
 
 ![](images/icons/slack.svg)
 
-## #masterclass-5
+## #masterclass-6
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
 
