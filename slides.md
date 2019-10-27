@@ -22,11 +22,11 @@ class: middle, center, slide-invert-colors, slide-card-list
 
 # Trener
 
-.card[![](./images/avatars-mentors/michal-szklarski.jpg) Michał Szklarski]
+.card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury]
 
+<!-- .card[![](./images/avatars-mentors/michal-szklarski.jpg) Michał Szklarski] -->
 <!-- .card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski] -->
 <!-- .card[![](./images/avatars-mentors/kamil-grabek.jpg) Kamil Grabek] -->
-<!-- .card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury] -->
 
 ---
 
@@ -80,9 +80,31 @@ class: middle, center, no-logo, slide-invert-colors
 
 ![](images/icons/slack.svg)
 
-## #masterclass-6
+## #masterclass-7
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
+
+---
+
+exclude: false
+class: no-logo, slide-fullscreen-background
+background-image: url(images/confrontjs/Facebook_1920x1080px.jpg)
+
+---
+
+class: middle
+
+# Newsletter 💌
+
+## [newsletter.warsawjs.com](https://newsletter.warsawjs.com/)
+
+* **Życie** <span class="slim">(Projekty, Filmy, Artykuły)</span> Społeczności
+* Wydarzenia
+* <var>Zniżki</var>
+
+.box.right.size50[
+[<mark>Dodaj materiał</mark> ⭐](https://newsletter-submission.warsawjs.com)
+]
 
 ---
 
