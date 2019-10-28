@@ -32,11 +32,9 @@ class: middle, center, slide-invert-colors, slide-card-list
 
 class: middle, center, slide-invert-colors, slide-middle-images, no-logo
 
-# Sponsorzy
+# Sponsor
 
 ![](./images/sponsors/logo-sumo-logic.png)
-
-<!-- ![](./images/sponsors/logo-instapage.svg) -->
 
 ---
 
@@ -62,11 +60,11 @@ class: slide-invert-colors
 
 .size30[
 
-* Start: **9:00**
+* Start: **10:00**
 * Social media break: **11:30 — 11:45**
 * Lunch: **13:00 — 13:30**
 * Activity break: **15:30 — 15:45**
-* End: **17:00**
+* End: **18:00**
 
 ]
 
@@ -104,6 +102,29 @@ class: middle
 
 .box.right.size50[
 [<mark>Dodaj materiał</mark> ⭐](https://newsletter-submission.warsawjs.com)
+]
+
+---
+
+class: middle, no-logo, venue, slide-invert-colors
+background-image: url(images/venue/sumo-logic-venue.jpg)
+
+<div class="apla"></div>
+
+.overlay[
+
+# Venue
+
+.size40[
+
+* Toalety 🛁
+* Szatnie 🗝
+* Zasady w Kuchni 🍎
+    + Kubki do zmywarki
+    + Śmieci do kosza
+
+]
+
 ]
 
 ---
