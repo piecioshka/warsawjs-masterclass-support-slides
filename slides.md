@@ -10,7 +10,7 @@ class: middle, slide-front-page
 
 class: middle, center, slide-invert-colors, slide-card-list, slide-card-list-rounded
 
-# Organizatorzy
+# Hosts
 
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/avatars-hosts/katarzyna-grabowska.jpg) Katarzyna Grabowska]
@@ -20,24 +20,28 @@ class: middle, center, slide-invert-colors, slide-card-list, slide-card-list-rou
 
 class: middle, center, slide-invert-colors, slide-card-list
 
-# Trener
+# Trainer
 
-.card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury]
+.card[![](./images/avatars-mentors/yonatan-kra.jpg) Yonatan Kra]
 
+<!-- .card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury] -->
 <!-- .card[![](./images/avatars-mentors/michal-szklarski.jpg) Michał Szklarski] -->
 <!-- .card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski] -->
 <!-- .card[![](./images/avatars-mentors/kamil-grabek.jpg) Kamil Grabek] -->
 
 ---
 
-class: middle, center, slide-invert-colors, slide-middle-images, no-logo
+class: middle, center, slide-middle-images, no-logo
 
 # Sponsor
 
-![](./images/sponsors/logo-sumo-logic.png)
+![](./images/sponsors/logo-lukasiewicz-institute.svg)
+
+<!-- ![](./images/sponsors/logo-sumo-logic.png) -->
 
 ---
 
+exclude: true
 class: slide-invert-colors
 
 # Zasady współpracy 📋
@@ -54,6 +58,7 @@ class: slide-invert-colors
 
 ---
 
+exclude: true
 class: slide-invert-colors
 
 # Timebox
@@ -78,9 +83,9 @@ class: middle, center, no-logo, slide-invert-colors
 
 ![](images/icons/slack.svg)
 
-## #masterclass-7
+## #masterclass-confrontjs-2019
 
-**Dostęp możliwy, kiedy dostaniesz zaproszenie.**
+<!-- **Dostęp możliwy, kiedy dostaniesz zaproszenie.** -->
 
 ---
 
@@ -90,6 +95,7 @@ background-image: url(images/confrontjs/Facebook_1920x1080px.jpg)
 
 ---
 
+exclude: true
 class: middle
 
 # Newsletter 💌
@@ -106,6 +112,7 @@ class: middle
 
 ---
 
+exclude: true
 class: middle, no-logo, venue, slide-invert-colors
 background-image: url(images/venue/sumo-logic-venue.jpg)
 
@@ -132,13 +139,14 @@ background-image: url(images/venue/sumo-logic-venue.jpg)
 class: top, center, no-logo
 background-image: url('images/community.jpg')
 
-# <mark>Wspólne zdjęcie! 📸</mark>
+# <mark>Grab the picture together</mark>
 
 ---
 
 class: middle, slide-invert-colors, no-logo, slide-card-list
 
-.card.size70[Kodowanie!]
-.card[![](images/logo/logo-black-transparent-200x200.png)]
+.card.size70[Coding!]
+<!-- .card[![](images/logo/logo-black-transparent-200x200.png)] -->
+.card[![](images/logo/Confront_vertical_white_RGB.svg)]
 
 <!-- Fullscreen background: 1210 x 681 -->
