@@ -8,9 +8,9 @@ class: middle, slide-front-page
 
 ---
 
-class: middle, center, slide-invert-colors, slide-card-list, slide-card-list-rounded
+class: middle, center, slide-invert-colors, slide-card-list
 
-# Hosts
+# Organizatorzy
 
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/avatars-hosts/katarzyna-grabowska.jpg) Katarzyna Grabowska]
@@ -18,25 +18,26 @@ class: middle, center, slide-invert-colors, slide-card-list, slide-card-list-rou
 
 ---
 
-class: middle, center, slide-invert-colors, slide-card-list
+class: middle, center, slide-invert-colors, slide-card-list, slide-card-list-rounded
 
-# Trainer
+# Trener
 
-.card[![](./images/avatars-mentors/yonatan-kra.jpg) Yonatan Kra]
+.card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury]
 
-<!-- .card[![](./images/avatars-mentors/michal-bury.jpg) Michał Bury] -->
+<!-- .card[![](./images/avatars-mentors/yonatan-kra.jpg) Yonatan Kra] -->
 <!-- .card[![](./images/avatars-mentors/michal-szklarski.jpg) Michał Szklarski] -->
 <!-- .card[![](./images/avatars-mentors/piotr-kowalski.jpg) Piotr Kowalski] -->
 <!-- .card[![](./images/avatars-mentors/kamil-grabek.jpg) Kamil Grabek] -->
 
 ---
 
-class: middle, center, slide-middle-images, no-logo
+class: middle, center, slide-invert-colors, slide-middle-images, no-logo
 
 # Sponsor
 
-![](./images/sponsors/logo-lukasiewicz-institute.svg)
+<img src="images/sponsors/logo-instapage-blue.svg" style="height: 200px">
 
+<!-- ![](./images/sponsors/logo-lukasiewicz-institute.svg) -->
 <!-- ![](./images/sponsors/logo-sumo-logic.png) -->
 
 ---
@@ -83,15 +84,16 @@ class: middle, center, no-logo, slide-invert-colors
 
 ![](images/icons/slack.svg)
 
-## #masterclass-confrontjs-2019
+## #masterclass-10
 
 <!-- **Dostęp możliwy, kiedy dostaniesz zaproszenie.** -->
 
 ---
 
-exclude: false
-class: no-logo, slide-fullscreen-background
+exclude: true
+class: no-logo
 background-image: url(images/confrontjs/Facebook_1920x1080px.jpg)
+background-size: contain
 
 ---
 
@@ -139,14 +141,14 @@ background-image: url(images/venue/sumo-logic-venue.jpg)
 class: top, center, no-logo
 background-image: url('images/community.jpg')
 
-# <mark>Grab the picture together</mark>
+# <mark>Wspólne zdjęcia</mark>
 
 ---
 
 class: middle, slide-invert-colors, no-logo, slide-card-list
 
-.card.size70[Coding!]
-<!-- .card[![](images/logo/logo-black-transparent-200x200.png)] -->
-.card[![](images/logo/Confront_vertical_white_RGB.svg)]
+.card.size70[Thanks!]
+.card[![](images/logo/logo-black-transparent-200x200.png)]
+<!-- .card[![](images/logo/Confront_vertical_white_RGB.svg)] -->
 
 <!-- Fullscreen background: 1210 x 681 -->
